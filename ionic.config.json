@@ -1,0 +1,7 @@
+{
+  "name": "sidney",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
